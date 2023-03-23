@@ -1,0 +1,14 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+ 
